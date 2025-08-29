@@ -1,0 +1,5 @@
+{
+  "name": "여름방학 숙제 검사표",
+  "description": "A web application for teachers to track the completion of summer vacation homework for students. It provides a spreadsheet-like interface to mark assignments as complete (O) or incomplete (X) and add notes for follow-up.",
+  "requestFramePermissions": []
+}
